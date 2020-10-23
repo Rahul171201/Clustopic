@@ -1,0 +1,32 @@
+.body-section{
+    padding: 7% 15% 0% 15%;
+}
+
+.logo-name{
+    font-size: 3rem;
+    font-family: 'Lilita One', cursive;
+}
+.nab{
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 20px;
+}
+.body-text{
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.faltu{
+    font-size: 4rem;
+    margin-left: 50px;
+}
+.faltu:hover{
+    color: #2ec1ac;
+}
+.text-wh{
+    font-family: 'Lilita One', cursive;
+    color: white;
+    font-size: 2rem;
+    position: relative;
+    left: 20px;
+}

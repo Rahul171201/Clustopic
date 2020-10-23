@@ -1,0 +1,60 @@
+
+.nav-upper{
+ padding-right: 20px;
+ margin-bottom: 0px;
+}
+.navigation-bar{
+    padding-bottom: 90px;
+}
+.clustopic{
+    font-family: 'Lilita One', cursive;
+    font-size: 4rem;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.clustopic-top{
+    background-color: #fbf7f0;
+    padding-bottom: 200px;
+    
+}
+
+.uparwala{
+    background-color: #fbf7f0;
+}
+.template-image{
+    
+    background-color: #14274e;
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 90px;
+}
+
+.imgpng{
+    width: 150px;
+    margin-bottom: 30px;
+}
+.clust{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2rem;
+}
+
+.temp{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.contact-form{
+    background-color: #fbf7f0;
+    padding: 7% 0%;
+}
+.ending{
+    background-color: #b9fffc;
+    padding: 5% 0%;
+}
